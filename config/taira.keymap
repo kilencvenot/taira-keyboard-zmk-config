@@ -40,32 +40,32 @@
 
         ue {
             bindings = <&kp HU_U_DOUBLE_ACUTE>;
-            key-positions = <34 52>;
+            key-positions = <34 53>;
         };
 
         oe {
             bindings = <&kp HU_O_DOUBLE_ACUTE>;
-            key-positions = <52 11>;
+            key-positions = <11 53>;
         };
 
         ie {
             bindings = <&kp HU_I_ACUTE>;
-            key-positions = <52 20>;
+            key-positions = <20 53>;
         };
 
         oo {
             bindings = <&kp HU_O_ACUTE>;
-            key-positions = <52 21>;
+            key-positions = <21 53>;
         };
 
         aa {
             bindings = <&kp HU_A_ACUTE>;
-            key-positions = <52 25>;
+            key-positions = <25 53>;
         };
 
         bakspacedel {
             bindings = <&kp DEL>;
-            key-positions = <52 23>;
+            key-positions = <23 53>;
         };
     };
 
