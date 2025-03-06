@@ -29,15 +29,8 @@
         kp_u: kp_u {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp LEFT_ALT &kp KP_NUMBER_0 &kp KP_NUMBER_2 &kp KP_NUMBER_5 &kp KP_NUMBER_2 &kp LEFT_ALT>;
+            bindings = <&kp AMPS &kp M &kp A &kp C &kp R &kp O &kp UNDER &kp T &kp A &kp P &kp SPACE &kp DQT &kp DQT &kp RET &kp RET>;
             label = "KP_U";
-        };
-
-        umaskepp: umaskepp {
-            compatible = "zmk,behavior-macro";
-            #binding-cells = <0>;
-            bindings = <&none &kp AMPS &kp K &kp P &kp SPACE &kp LS(U) &kp LS(A) &kp LS(C) &kp LS(U) &kp LS(T) &kp LS(E)>;
-            label = "UMASKEPP";
         };
     };
 
