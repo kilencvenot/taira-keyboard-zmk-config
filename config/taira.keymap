@@ -29,7 +29,7 @@
         kp_u: kp_u {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp AMPS &kp M &kp A &kp C &kp R &kp O &kp UNDER &kp T &kp A &kp P &kp SPACE &kp DQT &kp DQT &kp RET &kp RET>;
+            bindings = <&kt LSHFT &kp KP_NUMBER_0 &kp KP_NUMBER_2 &kp KP_NUMBER_5 &kp KP_NUMBER_2>;
             label = "KP_U";
         };
     };
