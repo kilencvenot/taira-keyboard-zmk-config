@@ -164,7 +164,7 @@
         accent {
             bindings = <
 &trans  &trans  &trans  &trans  &trans  &trans                                                  &trans  &trans  &trans  &trans  &trans  &kp B
-&trans  &trans  &trans  &kp A   &trans  &trans                                                  &trans  &kp A   &kp U   &kp A   &trans  &trans
+&trans  &trans  &trans  &kp A   &trans  &trans                                                  &trans  &kp A   &kp U   &kp U   &trans  &trans
 &trans  &kp B   &trans  &trans  &trans  &trans                                                  &trans  &trans  &trans  &trans  &kp A   &trans
 &trans  &trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans                  &trans  &trans  &trans  &trans
