@@ -164,11 +164,11 @@
 
         accent {
             bindings = <
-&trans  &trans          &trans  &trans          &trans  &trans                                                  &trans  &trans          &trans        &trans          &trans                 &kp HU_O_DOUBLE_ACUTE
-&trans  &trans          &trans  &kp HU_E_ACUTE  &trans  &trans                                                  &trans  &kp HU_U_ACUTE  &kp NUMBER_4  &kp HU_O_ACUTE  &trans                 &trans
-&trans  &kp HU_A_ACUTE  &trans  &trans          &trans  &trans                                                  &trans  &trans          &trans        &trans          &kp HU_U_DOUBLE_ACUTE  &trans
-&trans  &trans          &trans  &trans          &trans  &trans          &trans  &trans  &trans  &trans          &trans  &trans          &trans        &trans          &trans                 &trans
-&trans  &trans          &trans  &trans                          &trans  &trans  &trans  &trans  &trans  &trans                          &trans        &trans          &trans                 &trans
+&trans  &trans          &trans  &trans          &trans  &trans                                                  &trans  &trans          &trans          &trans          &trans                 &kp HU_O_DOUBLE_ACUTE
+&trans  &trans          &trans  &kp HU_E_ACUTE  &trans  &trans                                                  &trans  &kp HU_U_ACUTE  &kp SK_I_ACUTE  &kp HU_O_ACUTE  &trans                 &trans
+&trans  &kp HU_A_ACUTE  &trans  &trans          &trans  &trans                                                  &trans  &trans          &trans          &trans          &kp HU_U_DOUBLE_ACUTE  &trans
+&trans  &trans          &trans  &trans          &trans  &trans          &trans  &trans  &trans  &trans          &trans  &trans          &trans          &trans          &trans                 &trans
+&trans  &trans          &trans  &trans                          &trans  &trans  &trans  &trans  &trans  &trans                          &trans          &trans          &trans                 &trans
             >;
         };
     };
