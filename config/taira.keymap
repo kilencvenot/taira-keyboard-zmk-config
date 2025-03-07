@@ -4,7 +4,6 @@
  * SPDX-License-Identifier: MIT
  */
 #include "keys_hu.h"
-#include "keys_hu_101.h"
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/keys.h>
 
