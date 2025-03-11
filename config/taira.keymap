@@ -39,11 +39,11 @@
  */
 
             bindings = <
-&kp ESCAPE  &kp HU_N0     &kp HU_N1  &kp HU_N2  &kp HU_N3  &kp HU_N4                                                                                &kp HU_N5  &kp HU_N6  &kp HU_N7  &kp HU_N8   &kp HU_N9  &kp O
-&kp DELETE  &kp Q         &kp W      &kp E      &kp R      &kp T                                                                                    &kp Y      &kp U      &kp I      &kp O       &kp P      &kp BACKSPACE
-&kp TAB     &kp A         &kp S      &kp D      &kp F      &kp G                                                                                    &kp H      &kp J      &kp K      &kp L       &kp U      &kp ENTER
-&kp LSHFT   &kp Z         &kp X      &kp C      &kp V      &kp B             &kp DEL    &kp ENTER  &kp DELETE      &kp UP_ARROW                     &kp N      &kp M      &kp COMMA  &kp DOT     &kp MINUS  &kp RSHFT
-&kp LCTRL   &kp LEFT_ALT  &kp LMETA  &kp SPACE                        &mo 1  &kp SPACE  &kp LCTRL  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW                        &kp SPACE  &kp DELETE  &kp LCTRL  &kp ESCAPE
+&kp ESCAPE  &kp HU_N0     &kp HU_N1  &kp HU_N2  &kp HU_N3  &kp HU_N4                                                                                &kp HU_N5  &kp HU_N6  &kp HU_N7  &kp HU_N8   &kp HU_N9        &kp HU_O_UMLAUT
+&kp DELETE  &kp Q         &kp W      &kp E      &kp R      &kp T                                                                                    &kp Y      &kp U      &kp I      &kp O       &kp P            &kp BACKSPACE
+&kp TAB     &kp A         &kp S      &kp D      &kp F      &kp G                                                                                    &kp H      &kp J      &kp K      &kp L       &kp HU_U_UMLAUT  &kp ENTER
+&kp LSHFT   &kp Z         &kp X      &kp C      &kp V      &kp B             &kp DEL    &kp ENTER  &kp DELETE      &kp UP_ARROW                     &kp N      &kp M      &kp COMMA  &kp DOT     &kp MINUS        &kp RSHFT
+&kp LCTRL   &kp LEFT_ALT  &kp LMETA  &kp SPACE                        &mo 1  &kp SPACE  &kp LCTRL  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW                        &kp SPACE  &kp DELETE  &kp LCTRL        &kp ESCAPE
             >;
         };
 
