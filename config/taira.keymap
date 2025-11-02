@@ -60,11 +60,11 @@
 
         mac_alap {
             bindings = <
-&kp ESCAPE  &kp HU_I_ACUTE  &kp HU_N1  &kp HU_N2  &kp HU_N3  &kp HU_N4                                                                                   &kp HU_N5  &kp HU_N6  &kp HU_N7  &kp HU_N8   &kp HU_N9        &kp HU_O_UMLAUT
-&kp TAB     &kp Q           &kp W      &kp E      &kp R      &kp T                                                                                       &kp HU_Y   &kp U      &kp I      &kp O       &kp P            &kp BACKSPACE
-&kp DELETE  &kp A           &kp S      &kp D      &kp F      &kp G                                                                                       &kp H      &kp J      &kp K      &kp L       &kp HU_U_UMLAUT  &kp ENTER
-&kp LSHFT   &kp HU_Z        &kp X      &kp C      &kp V      &kp B             &kp DEL    &kp ENTER     &kp DELETE      &kp UP_ARROW                     &kp N      &kp M      &kp COMMA  &kp DOT     &kp HU_MINUS     &kp RSHFT
-&kp LCTRL   &kp LEFT_ALT    &kp LMETA  &kp SPACE                        &mo 3  &kp SPACE  &kp LEFT_WIN  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW                        &kp SPACE  &kp DELETE  &kp LCTRL        &kp ESCAPE
+&kp ESCAPE    &kp HU_I_ACUTE  &kp HU_N1  &kp HU_N2  &kp HU_N3  &kp HU_N4                                                                                   &kp HU_N5  &kp HU_N6  &kp HU_N7  &kp HU_N8   &kp HU_N9        &kp HU_O_UMLAUT
+&kp TAB       &kp Q           &kp W      &kp E      &kp R      &kp T                                                                                       &kp HU_Y   &kp U      &kp I      &kp O       &kp P            &kp BACKSPACE
+&kp DELETE    &kp A           &kp S      &kp D      &kp F      &kp G                                                                                       &kp H      &kp J      &kp K      &kp L       &kp HU_U_UMLAUT  &kp ENTER
+&kp LSHFT     &kp HU_Z        &kp X      &kp C      &kp V      &kp B             &kp DEL    &kp ENTER     &kp DELETE      &kp UP_ARROW                     &kp N      &kp M      &kp COMMA  &kp DOT     &kp HU_MINUS     &kp RSHFT
+&kp LEFT_GUI  &kp LEFT_ALT    &kp LCTRL  &kp SPACE                        &mo 3  &kp SPACE  &kp LEFT_WIN  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW                        &kp SPACE  &kp DELETE  &kp LCTRL        &kp ESCAPE
             >;
         };
 
